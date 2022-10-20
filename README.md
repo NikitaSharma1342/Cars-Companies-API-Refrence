@@ -2,7 +2,7 @@
 Created a documentation with Postman of simple API endpoints for companies and their respective car details.
 
 # Description
-A database named `cars_companies.db` where the data table follows the concept of one to many relation. API endpoints are created using __Get__ , __Post__, __Patch__ and __Delete__ methods to search, add, update and detete the details cars and companies respectively, to the database. One can view the result by using Postman. The documentation is created with the help of Postman.
+A database named `cars_companies.db` where the data table follows the concept of one to many relation. API endpoints are created using  __Post__, __Patch__ and __Delete__ methods to add, update and detete the details cars and companies respectively, to the database. One can view the result by using Postman. The documentation is created with the help of Postman.
 
 Libraries and Framework used
 * Flask
